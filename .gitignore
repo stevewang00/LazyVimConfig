@@ -1,0 +1,10 @@
+#OS
+.DS_Store
+
+# 临时/交换文件
+*.swp
+*.swo
+*~
+
+# 不要提交的
+.netrwhist
